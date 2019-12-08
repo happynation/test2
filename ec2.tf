@@ -10,6 +10,6 @@ module "ec2_cluster" {
   key_name               = "vova_mac"
   monitoring             = true
   vpc_security_group_ids = ["sg-d1b9e784"]
-  subnet_id              = "subnet-eddcdzz4"
+  subnet_id              = "subnet-961d13ca"
 
 }
